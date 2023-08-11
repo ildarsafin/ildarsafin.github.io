@@ -1,5 +1,3 @@
-# Adapt to current living conditions
-
 Currently, the world has become unstable and unpredictable. This is due to factors such as wars, climate change, economic crises and the COVID-19 pandemic. In such an environment, it is important to learn how to adapt and adjust to the changing circumstances. There are several ways to help you adapt to your current living conditions:
 
 ## Be flexible
