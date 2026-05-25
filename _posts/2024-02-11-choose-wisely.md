@@ -1,3 +1,8 @@
+---
+layout: post
+title: Choose Wisely
+---
+
 Life offers two roads: one leading to big achievements, the other to simple joys. But watch out for the middle path—it's where dreams get lost and happiness fades.
 
 Some chase big dreams, aiming for fame and success. They tackle challenges head-on, leaving their mark on the world.

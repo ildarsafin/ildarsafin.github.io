@@ -1,4 +1,7 @@
-# Why I’m Moving Into Local & Self-Hosted LLM Infrastructure
+---
+layout: post
+title: Why I’m Moving Into Local & Self-Hosted LLM Infrastructure
+---
 
 Over the past years, my career has been split across several domains that, at first glance, looked separate:
 
@@ -24,7 +27,7 @@ Companies increasingly want:
 
 The “one API for everything” model won’t fit every business.
 
-That’s why I’m starting to focus on helping teams set up and integrate local/self-hosted LLM solutions — combining AI expertise with real-world software and infrastructure engineering experience.
+That’s why I’m starting to focus on helping teams set up and integrate local/self-hosted LLM solutions - combining AI expertise with real-world software and infrastructure engineering experience.
 
 This includes:
 

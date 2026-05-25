@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-05-25T12:25:50+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ildar Safin</title><subtitle>Days of Software Developer</subtitle><entry><title type="html">Why I’m Moving Into Local &amp;amp; Self-Hosted LLM Infrastructure</title><link href="http://localhost:4000/expertise/" rel="alternate" type="text/html" title="Why I’m Moving Into Local &amp;amp; Self-Hosted LLM Infrastructure" /><published>2026-05-25T00:00:00+02:00</published><updated>2026-05-25T00:00:00+02:00</updated><id>http://localhost:4000/expertise</id><content type="html" xml:base="http://localhost:4000/expertise/">&lt;p&gt;Over the past years, my career has been split across several domains that, at first glance, looked separate:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Neural Networks and Deep Learning research&lt;/li&gt;
+  &lt;li&gt;Backend and distributed systems engineering&lt;/li&gt;
+  &lt;li&gt;AWS infrastructure and platform development&lt;/li&gt;
+  &lt;li&gt;Production systems, observability, logs, metrics, and reliability engineering&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Recently, I realized these areas are converging.&lt;/p&gt;
+
+&lt;p&gt;Large Language Models are no longer just research projects or experimental tools. They are becoming infrastructure.&lt;/p&gt;
+
+&lt;p&gt;And I strongly believe the next big shift in software development will be the move toward local and self-hosted AI systems.&lt;/p&gt;
+
+&lt;p&gt;Companies increasingly want:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;control over their data,&lt;/li&gt;
+  &lt;li&gt;predictable infrastructure costs,&lt;/li&gt;
+  &lt;li&gt;private AI workflows,&lt;/li&gt;
+  &lt;li&gt;on-premise deployments,&lt;/li&gt;
+  &lt;li&gt;deeper customization,&lt;/li&gt;
+  &lt;li&gt;and AI integrated directly into internal systems.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The “one API for everything” model won’t fit every business.&lt;/p&gt;
+
+&lt;p&gt;That’s why I’m starting to focus on helping teams set up and integrate local/self-hosted LLM solutions - combining AI expertise with real-world software and infrastructure engineering experience.&lt;/p&gt;
+
+&lt;p&gt;This includes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;deployment and orchestration,&lt;/li&gt;
+  &lt;li&gt;cloud/on-prem infrastructure,&lt;/li&gt;
+  &lt;li&gt;observability and monitoring,&lt;/li&gt;
+  &lt;li&gt;backend integrations,&lt;/li&gt;
+  &lt;li&gt;vector databases and retrieval,&lt;/li&gt;
+  &lt;li&gt;workflow automation,&lt;/li&gt;
+  &lt;li&gt;and building reliable AI systems that can actually run in production.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We’re still early. Many tools are rough around the edges. But that’s usually where the most important shifts begin.&lt;/p&gt;</content><author><name></name></author><summary type="html">Over the past years, my career has been split across several domains that, at first glance, looked separate:</summary></entry><entry><title type="html">Choose Wisely</title><link href="http://localhost:4000/choose-wisely/" rel="alternate" type="text/html" title="Choose Wisely" /><published>2024-02-11T00:00:00+01:00</published><updated>2024-02-11T00:00:00+01:00</updated><id>http://localhost:4000/choose-wisely</id><content type="html" xml:base="http://localhost:4000/choose-wisely/">&lt;p&gt;Life offers two roads: one leading to big achievements, the other to simple joys. But watch out for the middle path—it’s where dreams get lost and happiness fades.&lt;/p&gt;
+
+&lt;p&gt;Some chase big dreams, aiming for fame and success. They tackle challenges head-on, leaving their mark on the world.&lt;/p&gt;
+
+&lt;p&gt;Others find happiness in small things—a good laugh, a hug, or a quiet moment. They know joy comes from appreciating life’s little moments.&lt;/p&gt;
+
+&lt;p&gt;But if you get stuck in the middle, you’ll miss out. Life becomes dull, with no progress or joy.&lt;/p&gt;
+
+&lt;p&gt;So, choose wisely. Aim for big dreams or enjoy the simple things. But don’t settle for mediocrity—it’s better to try for greatness and fail than to never try at all.&lt;/p&gt;</content><author><name></name></author><summary type="html">Life offers two roads: one leading to big achievements, the other to simple joys. But watch out for the middle path—it’s where dreams get lost and happiness fades.</summary></entry><entry><title type="html">Adapt To Current Living Conditions</title><link href="http://localhost:4000/adapt-to-current-living-conditions/" rel="alternate" type="text/html" title="Adapt To Current Living Conditions" /><published>2023-03-11T00:00:00+01:00</published><updated>2023-03-11T00:00:00+01:00</updated><id>http://localhost:4000/adapt-to-current-living-conditions</id><content type="html" xml:base="http://localhost:4000/adapt-to-current-living-conditions/">&lt;p&gt;Currently, the world has become unstable and unpredictable. This is due to factors such as wars, climate change, economic crises and the COVID-19 pandemic. In such an environment, it is important to learn how to adapt and adjust to the changing circumstances. There are several ways to help you adapt to your current living conditions:&lt;/p&gt;
+
+&lt;h2 id=&quot;be-flexible&quot;&gt;Be flexible&lt;/h2&gt;
+
+&lt;p&gt;Society and living conditions are constantly changing. Be prepared for change and don’t be afraid to adapt to new circumstances. Look at these changes as an opportunity for growth and development.&lt;/p&gt;
+
+&lt;h2 id=&quot;develop-your-skills&quot;&gt;Develop your skills&lt;/h2&gt;
+
+&lt;p&gt;One way to adapt to your current circumstances is to develop your skills. You need to learn new things and improve your existing skills. This will help you to be ready for new challenges.&lt;/p&gt;
+
+&lt;h2 id=&quot;be-open-to-new-things&quot;&gt;Be open to new things&lt;/h2&gt;
+
+&lt;p&gt;It is important to be open to new ideas, methods and technologies. This will help you to adapt to new environments and find better ways to achieve your goals.&lt;/p&gt;
+
+&lt;h2 id=&quot;dont-forget-your-health&quot;&gt;Don’t forget your health&lt;/h2&gt;
+
+&lt;p&gt;Health is the foundation that allows us to achieve our goals and adapt to new environments. Don’t forget a healthy lifestyle, proper nutrition, exercise and enough sleep.&lt;/p&gt;
+
+&lt;p&gt;Adapting to your current living conditions can be difficult, but it is possible. Follow these simple tips and you will be able to adapt to new challenges and circumstances.&lt;/p&gt;</content><author><name></name></author><summary type="html">Currently, the world has become unstable and unpredictable. This is due to factors such as wars, climate change, economic crises and the COVID-19 pandemic. In such an environment, it is important to learn how to adapt and adjust to the changing circumstances. There are several ways to help you adapt to your current living conditions:</summary></entry><entry><title type="html">Reasons for me to make a blog</title><link href="http://localhost:4000/reasons-to-make-a-blog/" rel="alternate" type="text/html" title="Reasons for me to make a blog" /><published>2022-11-01T00:00:00+01:00</published><updated>2022-11-01T00:00:00+01:00</updated><id>http://localhost:4000/reasons-to-make-a-blog</id><content type="html" xml:base="http://localhost:4000/reasons-to-make-a-blog/">&lt;p&gt;Today is 10 years after I’ve tried Ruby on Rails for the first time.&lt;/p&gt;
+
+&lt;p&gt;I have some experience of writing on Ruby on Rails. It’s been quite a long journey now.
+I’ve been working in an outsourcing company for more than a year. Then I tried in startups two times.&lt;/p&gt;
+
+&lt;p&gt;I’ve made a lot of mistakes and learned a few things. I want to share my experience with you.&lt;/p&gt;
+
+&lt;p&gt;I’ve met with Ruby on Rails in 2012 after I’ve read stories about Airbnb, Twitter, I’ve read blog posts from 37Signals.&lt;/p&gt;
+
+&lt;p&gt;My first professional contact with Ruby was in 2013. 
+I was working in a company that was developing web applications for a client. I was a junior developer. 
+I was working there with Ruby on Rails and JavaScript.&lt;/p&gt;
+
+&lt;p&gt;Then I had a tough but interesting experience in a startup. I was working as a full-stack developer there.&lt;/p&gt;
+
+&lt;p&gt;Then I had small break in development and I did a double-degree MSc in Ilmenau University. 
+There I had a Master Thesis about deep learning and portfolio prediction.&lt;/p&gt;
+
+&lt;p&gt;Then I found a job in a Berlin startup. I was working there mostly as a backend developer but with multiple responsibilities.
+I’ve tried a trailblazer framework for Ruby on Rails first time there.
+Most of the fun there was to build an infrastructure in AWS with a whole pipeline of CI/CD and EC2 machines with auto-scaling. 
+Auto-scaling based on load-distribution from CDN was a new thing for me. I’ve learned a lot about it. But it worked well! It was a great achievement for me and the company at that time.&lt;/p&gt;
+
+&lt;p&gt;Then I came to the current company and I am really happy to work here. 
+I am working as a backend developer in a rapid-growing company. 
+I don’t have such crazy things as DevOps in my responsibilities but I am still learning some cool stuff about development and I am really happy to work here.&lt;/p&gt;
+
+&lt;p&gt;It’s 2022 and it’s been quite a ride for these 10 years but I am still enjoying developing with Ruby on Rails.&lt;/p&gt;
+
+&lt;p&gt;I think I want to switch more to Mobile Development, and refresh some things about Deep Learning from University but I am still eager to try new things in backend development and Ruby on Rails in particular.&lt;/p&gt;</content><author><name></name></author><summary type="html">Today is 10 years after I’ve tried Ruby on Rails for the first time.</summary></entry><entry><title type="html">Progressive JPEG method</title><link href="http://localhost:4000/progressive-jpeg/" rel="alternate" type="text/html" title="Progressive JPEG method" /><published>2020-05-13T00:00:00+02:00</published><updated>2020-05-13T00:00:00+02:00</updated><id>http://localhost:4000/progressive-jpeg</id><content type="html" xml:base="http://localhost:4000/progressive-jpeg/">&lt;p&gt;I started to use in my work the &lt;a href=&quot;https://www.artlebedev.ru/kovodstvo/sections/167/&quot;&gt;Progressive JPEG Method&lt;/a&gt; project management technique, which is created by designer Artemiy Lebedev.&lt;/p&gt;
+
+&lt;p&gt;The point of this project management technique is that the project is always completed by 100% even if it has a detail level of 4 percent.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*gbEZUky1CwvOA-On.jpeg&quot; alt=&quot;How JPEG is rendered&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Depending on the available time the project can be worked through by the pixels level, or it can be on the concept stage. The first solution is ready by the time of speaking with the client.&lt;/p&gt;
+
+&lt;p&gt;The main point of this method is that every day you have a measurable and completed project which is detailed on a certain level. Every part of the project can be detailed as much as the client wants it. 
+You decide on detail level of features at the last moment by a request from the client or by the time availability, which reduces the complexity.&lt;/p&gt;</content><author><name></name></author><summary type="html">I started to use in my work the Progressive JPEG Method project management technique, which is created by designer Artemiy Lebedev.</summary></entry></feed>
